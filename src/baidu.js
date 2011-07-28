@@ -1,3 +1,4 @@
+﻿//just for test
 // Copyright (c) 2009, Baidu Inc. All rights reserved.
 //
 // Licensed under the BSD License
