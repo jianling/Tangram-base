@@ -1,4 +1,5 @@
-﻿// Copyright (c) 2009, Baidu Inc. All rights reserved.
+﻿//for test
+// Copyright (c) 2009, Baidu Inc. All rights reserved.
 //
 // Licensed under the BSD License
 // you may not use this file except in compliance with the License.
